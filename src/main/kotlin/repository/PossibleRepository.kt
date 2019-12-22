@@ -1,6 +1,6 @@
 package repository
 
-import controller.Possible
+import model.Possible
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository
 import org.springframework.stereotype.Repository
 
